@@ -32,7 +32,7 @@ Click the below button to watch the video tutorial on deploying
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/MyVCbot/tree/dev)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrDevilYT/tg-vc-userbot/tree/dev)
 
 - Enable the worker after deploy the project to Heroku
 
